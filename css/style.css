@@ -77,6 +77,10 @@ footer{
     font-family: 'SF Pro','Helvetica Neue', sans-serif;;
 }
 
+footer a, footer a:visited{
+    color: aquamarine;
+}
+
 
 
 @media screen and (min-width: 750px) {
